@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/DefineMash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button_addStage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Mash Stage" />
+
+    <Button
+        android:id="@+id/button_submitMash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit Mash" />
+
+    <TableLayout android:id="@+id/table"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <TableRow
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Temperature"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:width="0px"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:text="Time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:width="0px"
+                android:layout_weight="1"/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
