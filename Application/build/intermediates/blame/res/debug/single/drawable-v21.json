@@ -1,18 +1,50 @@
 [
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/cezary/.android/build-cache/2e7258da3687f46b7dd57acc75f09b0fdd5d9843/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/cezary/.android/build-cache/2e7258da3687f46b7dd57acc75f09b0fdd5d9843/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/cezary/.android/build-cache/2e7258da3687f46b7dd57acc75f09b0fdd5d9843/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/cezary/.android/build-cache/2e7258da3687f46b7dd57acc75f09b0fdd5d9843/output/res/drawable-v21/design_password_eye.xml"
     }
 ]

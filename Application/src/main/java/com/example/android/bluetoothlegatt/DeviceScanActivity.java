@@ -35,7 +35,6 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.annotation.RequiresApi;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
@@ -67,6 +66,9 @@ public class DeviceScanActivity extends Activity {
 
     List<BluetoothDevice> listBluetoothDevice;
     ListAdapter adapterLeScanResult;
+
+    ArrayList<String> temps_list = new ArrayList<>();
+    ArrayList<String> times_list = new ArrayList<>();
 
     private Handler mHandler;
     private static final long SCAN_PERIOD = 10000;
@@ -105,6 +107,8 @@ public class DeviceScanActivity extends Activity {
         });
         listViewLE = (ListView)findViewById(R.id.lelist);
 
+        temps_list = (ArrayList<String>) getIntent().getSerializableExtra("temps_list");
+        times_list = (ArrayList<String>) getIntent().getSerializableExtra("times_list");
         listBluetoothDevice = new ArrayList<>();
         adapterLeScanResult = new ArrayAdapter<BluetoothDevice>(
                 this, android.R.layout.simple_list_item_1, listBluetoothDevice);
@@ -133,6 +137,7 @@ public class DeviceScanActivity extends Activity {
         }
     }
 
+
     @Override
     public void onRequestPermissionsResult(int requestCode,
                                            String permissions[],
@@ -156,7 +161,6 @@ public class DeviceScanActivity extends Activity {
                 return;
             }
         }
-
     }
 
     AdapterView.OnItemClickListener scanResultOnItemClickListener =
@@ -166,7 +170,7 @@ public class DeviceScanActivity extends Activity {
                 public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                     final BluetoothDevice device = (BluetoothDevice) parent.getItemAtPosition(position);
 
-                    String msg = device.getAddress() + "\n"
+                    String msg = device.getName() + "\n"
                             + device.getBluetoothClass().toString() + "\n"
                             + getBTDevieType(device);
 
@@ -188,6 +192,8 @@ public class DeviceScanActivity extends Activity {
                                             device.getName());
                                     intent.putExtra(ControlActivity.EXTRAS_DEVICE_ADDRESS,
                                             device.getAddress());
+                                    intent.putExtra("temps_list", temps_list);
+                                    intent.putExtra("times_list", times_list);
 
                                     if (mScanning) {
                                         mBluetoothLeScanner.stopScan(scanCallback);

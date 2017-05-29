@@ -1,18 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\.android\\build-cache\\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/res/layout-v21/notification_action.xml"
     }
 ]

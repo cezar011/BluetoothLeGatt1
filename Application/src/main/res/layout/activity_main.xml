@@ -7,20 +7,13 @@
     android:orientation="vertical"
     tools:context="com.example.android.bluetoothlegatt.DeviceScanActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:autoLink="web"
-        android:text="http://android-er.blogspot.com/"
-        android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:autoLink="web"
-        android:text="Bluetooth LE Gatt Example"
+        android:text="Bluetooth LE Gatt"
         android:textStyle="italic" />
 
     <Button

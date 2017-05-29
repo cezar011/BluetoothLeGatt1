@@ -2,92 +2,169 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xxxhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1495572636672"
+    timestamp="1495626237043"
     token="8873916734187590487"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="207" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="10" />
+        duration="0" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\outputs\apk\Application-debug.apk"
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/outputs/apk/Application-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1495561857514"
+        timestamp="1495626237043"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\outputs\apk\Application-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1495572048741"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\outputs\apk\Application-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1495572636672"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\outputs\apk\Application-debug.apk"
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/outputs/apk/Application-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

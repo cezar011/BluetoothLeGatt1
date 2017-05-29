@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/C:\\Users\\Cezary\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

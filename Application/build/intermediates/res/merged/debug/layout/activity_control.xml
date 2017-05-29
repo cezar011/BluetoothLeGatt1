@@ -7,6 +7,123 @@
     android:orientation="vertical"
     tools:context="com.example.android.bluetoothlegatt.ControlActivity">
 
+    <Button
+        android:id="@+id/startMashing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Mashing" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Current temp:  "
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/textCurrentTemp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/blankspace"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Current stage:  "
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textCurrentStage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/blankspace1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time aim:  "
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textTimeAim"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/blankspace2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time left:  "
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/textTimeLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp" />
+        </TableRow>
+
+    </TableLayout>
+
     <TextView
         android:id="@+id/textDeviceName"
         android:layout_width="match_parent"
@@ -15,12 +132,6 @@
         android:textStyle="bold"/>
     <TextView
         android:id="@+id/textDeviceAddress"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="20dp"
-        android:textStyle="bold" />
-    <TextView
-        android:id="@+id/textState"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"

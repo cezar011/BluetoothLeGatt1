@@ -2,184 +2,148 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\60c0c9d48eaddcbda1e16eb92de96c9134d48bba\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_998eda15d8d1fc681c7e50b799daeb76710a995d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\5fc0f746544580aaea4508071b0cd1b66712fc3d\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a211805e78aeddd7c39131917d0f12f93360a6f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b630b01ed40a0491980df1b18558063388ca131b">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a493b4c5a6eafb15779521219a8c42c5072a552d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\2fb3fdf09e6f985c57837ec8942b159f246b4677\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a08178c243615015d9290cfa1a741ed2356826db\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\59c35acaac31d8168adf8625d6f75be4219482cb\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e35dcda2525c6541f3ece73f10de331d917681c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_8f1860586006c4a73f05e99d3043a4086c3c4e0f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\adf1fc9e14177e5fac242b3f7bcb408866efc035\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db44255cfff9d0a023c9631d417d24d231dc084e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\59c35acaac31d8168adf8625d6f75be4219482cb\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b9080c6470dbff41d602190f1613d5ce44f26835\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\5af685b3f6bc391085530043c97946bfcd4f877d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3164a093dc9801ae45c44585d93d127f01c1aa3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\2fb3fdf09e6f985c57837ec8942b159f246b4677\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bddb0efe30f077d72751c6e3cb31a1746c7515e2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9187a40abb4d7677eab89c5b48da0862990ff9c2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\4fe72569fd6b926d7bd278cf4d8caf3cad4c49cf\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4979e18f0daf3cc6c4185b57150fd35da92fb4ad\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\4fe72569fd6b926d7bd278cf4d8caf3cad4c49cf\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c7a88fc86c49ec9dff2742432acc722d653448b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\5fc0f746544580aaea4508071b0cd1b66712fc3d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e9f1e07dc9d23c727e1e322fe04e1600932f22a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\a4b0c467973ef1689232d665cf63c07fcaa7c5eb\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a608634d3ab447de258c84edb9bec28ae46b40f3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\5af685b3f6bc391085530043c97946bfcd4f877d\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_12f503d7cff66b9199b3d7673ca4bcb9050d8c3f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\adf1fc9e14177e5fac242b3f7bcb408866efc035\output\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_91f27641c178656aa6518a6aaef2bae741d52774\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\80bb29561fce5190ac4a9afd9fbd93a52cac1101\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/0dd5a9875d3907ad78d3ad035a1028b6bad94fdd/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97848be193002bf6788fe106bebe7e4cb2b07461\classes.dex" />
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_c1187f052ffdca40cab9b0cce0982fb8b7709cad.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\37e8553e02a146d39a89093224fda16eee43e99b\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/1243a71e5fa2acf3e644d02852b5b85068df4502/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56f887457a945bbc3571103419350bd0d1fb9182\classes.dex" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_91286a346abb1081d7d9b8ec7c2bb1bde0b7c6e7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Cezary\.android\build-cache\1edabeb58551a9fc8433a31a2fe8b55ed07c872e\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/292f2aca5f4af752f712be700fc6f0459884390d/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Users\Cezary\AndroidStudioProjects\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42af61a239eefeffc8053f743202d02b5f11363c\classes.dex" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_2372a60c119a9d91c16fc7da96cd250dfc54262c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/06a5af083bf3dd1bbfe67e492f0c2065394854a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_c4403df779710f432c9232ad386155feef6b6a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/e8ef0a36de508ef7512848c5b6b2a67a6d60ea59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_5791fcc5e67e4754ca3ad37188e83b33e278d58c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/4ea85080b2122d42e751a2fef2e9a86810d60240/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_5e36c974e865ad53e7a66b1c023ffd5b9d1bac02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_b9ccffc492c1ab35ec2ffe4f7d64a788811ebaff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/9f514ad12e9dd80387cbe9b12d44b03dd9c62d4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_80251ff5fc814551d97658ab89bf4aac17e69145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/2297867b73a117a607907e61d87071d935940ea0/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d9af0f38c699067822d3f57aaeaea8201f9512ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/2e7258da3687f46b7dd57acc75f09b0fdd5d9843/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_972f563d3d777c82359ef39bc9f9bed72bdc02a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/2297867b73a117a607907e61d87071d935940ea0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_90364499992b455d16cbf257a10844947968ebc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/6cd531d08d4a63bcc20454f338eabd801774c87a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_96a002133e32b9d99fd826a77c72d405250382b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/3c628b14aa5777b4d13b1c91eb7d4bd8517ff221/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_be4c3d2e5425a7fc45b3aae080ae207e135fa06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/8f9fe73da9b43abcfe7c1264b637df32dfc340a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_8b2107ebaa62daa75a1c115cd3eebcabd3cc1bf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/fa6a73c8f4c209a3e91993b9823ce75020ecc2ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_ef1aeb35fbc34326064db3d15120467341c43196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cezary/.android/build-cache/2cdc6e68fcec6d0874322073322c6a7138fd24ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/cezary/AndroidStudioProjects/BluetoothLeGatt1/Application/build/intermediates/pre-dexed/debug/classes_4869976bae5d6b1d498f9f219081f94e8fb13668.jar" />
     </item>
 
 </items>

@@ -15,6 +15,7 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ExpandableListView;
 import android.widget.SimpleExpandableListAdapter;
 import android.widget.TextView;
@@ -37,11 +38,18 @@ public class ControlActivity extends Activity {
     private BluetoothGattCharacteristic mNotifyCharacteristic;
     private BluetoothLeService mBluetoothLeService;
 
-    TextView textViewState;
     private ExpandableListView mGattServicesList;
 
     private final String LIST_NAME = "NAME";
     private final String LIST_UUID = "UUID";
+
+    ArrayList<String> temps_list = new ArrayList<>();
+    ArrayList<String> times_list = new ArrayList<>();
+
+    TextView crrTemp;
+    TextView crrStage;
+    TextView timeAim;
+    Button startMash;
 
     private ArrayList<ArrayList<BluetoothGattCharacteristic>> mGattCharacteristics =
             new ArrayList<ArrayList<BluetoothGattCharacteristic>>();
@@ -65,6 +73,11 @@ public class ControlActivity extends Activity {
             mBluetoothLeService = null;
         }
     };
+
+    public void startMashing(ArrayList <String> temps, ArrayList <String> times){
+        crrStage.setText(temps.get(0));
+        timeAim.setText(times.get(0));
+    }
 
     // Handles various events fired by the Service.
     // ACTION_GATT_CONNECTED: connected to a GATT server.
@@ -101,14 +114,14 @@ public class ControlActivity extends Activity {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
-                textViewState.setText(st);
+                crrTemp.setText(st);
             }
         });
     }
 
     private void displayData(String data) {
         if (data != null) {
-            textViewState.setText(data);
+            crrTemp.setText(data);
         }
     }
 
@@ -206,7 +219,8 @@ public class ControlActivity extends Activity {
                 }
             };
 
-    @Override    protected void onCreate(@Nullable Bundle savedInstanceState) {
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_control);
 
@@ -216,7 +230,6 @@ public class ControlActivity extends Activity {
 
         TextView textViewDeviceName = (TextView)findViewById(R.id.textDeviceName);
         TextView textViewDeviceAddr = (TextView)findViewById(R.id.textDeviceAddress);
-        textViewState = (TextView)findViewById(R.id.textState);
 
         textViewDeviceName.setText(mDeviceName);
         textViewDeviceAddr.setText(mDeviceAddress);
@@ -226,6 +239,22 @@ public class ControlActivity extends Activity {
 
         Intent gattServiceIntent = new Intent(this, BluetoothLeService.class);
         bindService(gattServiceIntent, mServiceConnection, BIND_AUTO_CREATE);
+
+        temps_list = (ArrayList<String>) getIntent().getSerializableExtra("temps_list");
+        times_list = (ArrayList<String>) getIntent().getSerializableExtra("times_list");
+
+        crrTemp = (TextView)findViewById(R.id.textCurrentTemp);
+        crrStage = (TextView)findViewById(R.id.textCurrentStage);
+        timeAim = (TextView)findViewById(R.id.textTimeAim);
+        startMash = (Button)findViewById(R.id.startMashing);
+
+
+        startMash.setOnClickListener(new View.OnClickListener(){
+            public void onClick (View v) {
+                startMashing(temps_list, times_list);
+            }
+        });
+
     }
 
     @Override
